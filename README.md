@@ -57,6 +57,6 @@ Developed a **deep learning-based** system for early, non-invasive ovarian cance
 
 ### 📊 GitHub Stats  
 
-![Kishor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishor404&show_icons=true&theme=dark&rank_icon=percentile&hide_border=true)  
+![Kishor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishor404&show_icons=true&theme=dark&rank_icon=percentile)  
 
 ---
