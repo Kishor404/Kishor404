@@ -31,7 +31,6 @@ Developed a **deep learning-based** system for early, non-invasive ovarian cance
 | **Full-Stack Development**     | 5        | ⭐⭐⭐⭐⭐ |
 | **Website Development**        | 8        | ⭐⭐⭐⭐⭐ |
 | **Mobile App Development**     | 3        | ⭐⭐⭐⭐ |
-| **Windows Application**        | 1        | ⭐⭐⭐ |
 | **AI Model Development**       | 3        | ⭐⭐⭐ |
 
 ---
@@ -50,7 +49,6 @@ Developed a **deep learning-based** system for early, non-invasive ovarian cance
 | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | 9 | Expert |
 | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | 2 | Intermediate |
 | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | 1 | Intermediate |
-| ![WinUI](https://img.shields.io/badge/WinUI-0078D4?style=for-the-badge&logo=windows&logoColor=white) | 1 | Intermediate |
 | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | 1 | Intermediate |
 
 ---
