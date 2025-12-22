@@ -6,8 +6,6 @@
 [![GitHub Followers](https://img.shields.io/github/followers/kishor404?label=Followers&style=for-the-badge)](https://github.com/kishor404)
 [![GitHub Stars](https://img.shields.io/github/stars/kishor404?label=Stars&style=for-the-badge)](https://github.com/kishor404)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kishor404&theme=dark)   
-
 ---
 
 ### 💡 About Me  
