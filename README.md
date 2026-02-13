@@ -33,12 +33,6 @@ Developed a **deep learning-based** system for early, non-invasive ovarian cance
 
 ---
 
-### 💻 Languages  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishor404&theme=dark&layout=compact)  
-
----
-
 ### 📚 Frameworks & Libraries  
 
 | Framework / Library | Projects | Proficiency |
@@ -48,11 +42,5 @@ Developed a **deep learning-based** system for early, non-invasive ovarian cance
 | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | 2 | Intermediate |
 | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | 1 | Intermediate |
 | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | 1 | Intermediate |
-
----
-
-### 📊 GitHub Stats  
-
-![Kishor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishor404&show_icons=true&theme=dark&rank_icon=percentile)  
 
 ---
